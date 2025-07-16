@@ -11,7 +11,7 @@
 - Causual Inference, espcially within Media analysis
 - Automated reasoning & probabilistic programming
 - Full-stack ML: from notebook to MLOps
-- 
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdr24008&show_icons=true&theme=default)
 ---
 ## ☁️ Fun Facts
 - I love **running**, playing **chess**, and learning about **theology**.
