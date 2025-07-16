@@ -14,10 +14,4 @@
 ---
 ## ☁️ Fun Facts
 - I love **running**, playing **chess**, and learning about **theology**.
-- I'm working on making ML more accessible through talks & short videos.
----
-## 📫 Get in touch
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/tom-richardson2/)
-- 🧪 [GitHub](https://github.com/tdr24008)
-- 📨 Feel free to open an issue or DM me if you'd like to collaborate!
-
+- I'm working on making ML more accessible through talks & short videos.!
